@@ -23,7 +23,8 @@
  the dashboard offers a concise snapshot of customer engagement and financial health, supporting data
 driven insights for the bank.
 
-![Screenshot 2025-05-14 163127](https://github.com/user-attachments/assets/858a7d6a-5fd9-4059-9de3-28578193709c)
+
+![Screenshot 2025-05-14 163127](https://github.com/user-attachments/assets/cc410fda-51d0-4523-ad9f-2e166e1f0f19)
 
  
 ## Summary of Insights
