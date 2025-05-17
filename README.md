@@ -23,10 +23,22 @@
  the dashboard offers a concise snapshot of customer engagement and financial health, supporting data
 driven insights for the bank.
 
-
+## Banking Dashboard
 ![Screenshot 2025-05-14 163127](https://github.com/user-attachments/assets/cc410fda-51d0-4523-ad9f-2e166e1f0f19)
 
- 
+
+## Loan_Analysis  
+![Loan_Analysis_2](https://github.com/user-attachments/assets/1f2d2a59-d129-4922-8d1f-606b820bbbb1)
+
+
+## Deposit_Analysis
+![Deposit_Analysis_3](https://github.com/user-attachments/assets/b5734ab6-86b8-482b-9532-d8f1873ae8e0)
+
+
+## Summary 
+![Summary_4](https://github.com/user-attachments/assets/6df6ad82-ca1e-4eff-9034-91ff9cfc9a13)
+
+
 ## Summary of Insights
 
   ####   • **Total Clients** : 2,940 across all segments (from the dashboard summary). 
